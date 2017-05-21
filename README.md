@@ -11,7 +11,7 @@ Author
 Robert W. Frank
 
 All other known bugs and fixes can be sent to flance@robfrancozone.com with subject beginning with: rfz-todo bugs/fixes
-	* Enhancement Ideas with subject beginning with: rfz-todo enhIdeas
+*	Enhancement Ideas with subject beginning with: rfz-todo enhIdeas
 
 Reported bugs/fixes will be submitted to correction.
 
@@ -37,6 +37,6 @@ Functionality Description
 	
 List for Enhancement Ideas    (A,B,C,D,E represent priority (E == eliminate))
 ---------
-C add style 4 rename + delete button
-C add date modified to displayed lists 		D date created and elements
-D add <input > to reorder list of lists and individual list by 
+*C add style 4 rename + delete button
+*C add date modified to displayed lists 		D date created and elements
+*D add <input > to reorder list of lists and individual list by 

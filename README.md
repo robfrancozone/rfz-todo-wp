@@ -37,6 +37,6 @@ Functionality Description
 	
 List for Enhancement Ideas    (A,B,C,D,E represent priority (E == eliminate))
 ---------
-*C add style 4 rename + delete button
-*C add date modified to displayed lists 		D date created and elements
-*D add <input > to reorder list of lists and individual list by 
+* C add style 4 rename + delete button
+* C add date modified to displayed lists 		D date created and elements
+* D add <input > to reorder list of lists and individual list by 

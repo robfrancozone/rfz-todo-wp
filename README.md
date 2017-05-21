@@ -28,8 +28,8 @@ uninstall.php
 Functionality Description
 ----------
 * page 4 overview of lists (function == mainMenu)
-	* enables User to create new list, display elements of existing list, rename and delete list with the <em>IMPLEMENTATION OF wp_nonce_*()
-	IN OOP ENVIRONMENT</em>
+	* enables User to create new list, display elements of existing list, rename and delete list with the <b>IMPLEMENTATION OF wp_nonce_*()
+	IN OOP ENVIRONMENT</b>
 * page 4 each individual list
 	* enabling User to create Element, prioritize, and ticking whether done and renaming + deleting with the **IMPLEMENTATION OF wp_nonce_*()
 	IN OOP ENVIRONMENT**
